@@ -46,9 +46,9 @@
 To deploy **ShopMaster SaaS** on your local development environment:
 
 ### 1. Prerequisites
-- Install [XAMPP](https://www.apachefriends.org/) or [WAMP](https://www.wampserver.com/en/).
+- Install [XAMPP](https://www.apachefriends.org/)
 
 ### 2. File Setup
 - Clone this repository:
   ```bash
-  git clone [https://github.com/your-username/shopmaster-saas.git](https://github.com/your-username/shopmaster-saas.git)
+  https://github.com/Masrur-Siam/shopmaster-saas.git
