@@ -52,3 +52,4 @@ To deploy **ShopMaster SaaS** on your local development environment:
 - Clone this repository:
   ```bash
   https://github.com/Masrur-Siam/shopmaster-saas.git
+  http://localhost/shopmaster/login.php
